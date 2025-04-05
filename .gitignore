@@ -1,3 +1,11 @@
 /postgres-keycloak-data
 2024__yandex-architecture-sso.code-workspace
 /sandbox
+bin/
+obj/
+*.user
+*.swp
+*.swm
+*.suo
+*.db
+*.opendb
